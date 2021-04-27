@@ -1,0 +1,8 @@
+imutils~=0.5.4
+numpy~=1.19.2
+timm~=0.4.8
+torchvision~=0.8.2
+pandas~=1.2.3
+pillow~=8.2.0
+torch~=1.7.1
+opencv
